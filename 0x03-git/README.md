@@ -1,2 +1,1 @@
-My first readme
-nice
+My first readme. nice
